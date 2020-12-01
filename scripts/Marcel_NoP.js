@@ -273,7 +273,7 @@ function displayBot()
 	
 	if(user_name == '') {
 		setTimeout(function() {
-		    postBotAnswer("Hello! I am Mercedes-Benz chatbot powered by artificial intelligence. What is your name?")
+		    postBotAnswer("Hello! I am Mercedes-Benz's chatbot powered by artificial intelligence. What is your name?")
 		}, 500);
 	}
 }
