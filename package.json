@@ -1,7 +1,7 @@
 {
 	"name": "benz-clone",
 	"version": "0.1.0",
-	"homepage": "https://kikijinqili.github.io/benz-4",
+	"homepage": "https://jinqili0310.github.io/benz-4",
 	"private": true,
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^1.2.30",
