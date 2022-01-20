@@ -1,4 +1,4 @@
-var icon_img = 'https://kikijinqili.github.io/assets/mercedes/mercedesLogo.png'
+var icon_img = 'https://jinqili0310.github.io/assets/mercedes/mercedesLogo.png'
 var playAd = 0;
 var bye = 0;
 var sayBye// = setInterval(sayGoodbye, 600000);
@@ -136,7 +136,7 @@ function askNextQuestion(answer_text) {
 				postBotAnswer(outstring);
 			}, 2000);
 			setTimeout(function() {
-				postImage('https://kikijinqili.github.io/assets/mercedes/Mercedes%20Gif%201.gif');
+				postImage('https://jinqili0310.github.io/assets/mercedes/Mercedes%20Gif%201.gif');
 			}, 4000);
 		}
 	}
